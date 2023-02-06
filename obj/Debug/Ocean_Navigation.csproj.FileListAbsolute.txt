@@ -1,0 +1,7 @@
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\Ocean_Navigation\bin\Debug\Ocean_Navigation.exe.config
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\Ocean_Navigation\bin\Debug\Ocean_Navigation.exe
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\Ocean_Navigation\bin\Debug\Ocean_Navigation.pdb
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\Ocean_Navigation\obj\Debug\Ocean_Navigation.csproj.AssemblyReference.cache
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\Ocean_Navigation\obj\Debug\Ocean_Navigation.csproj.CoreCompileInputs.cache
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\Ocean_Navigation\obj\Debug\Ocean_Navigation.exe
+D:\Abdurrehman 2021-CS-44\2nd Semester\Week 04\Ocean_Navigation\obj\Debug\Ocean_Navigation.pdb
